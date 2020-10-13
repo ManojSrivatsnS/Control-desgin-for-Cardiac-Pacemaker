@@ -10,3 +10,8 @@ Any circumstances of motion can be model mathematically based on the free body d
 
  We can replace the circulation as well as heart chambers that yields for the palpitation of the muscles.
  
+ The systemic circulation is given as feedback to the primary pulmonary circulation and the aortic output to emulate the pumping mechanism. 
+ 
+ The systemic circulation is given as feedback to the primary pulmonary circulation and the aortic output to emulate the pumping mechanism. 
+ 
+ The pacemaker is simulated with a signal generator and controller that can tune the pulse. We can analyse the results for both with and without the controller;
